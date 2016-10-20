@@ -1,0 +1,45 @@
+p.left-side-bar{
+    background: #263e98;
+    color: white;
+    width:25%;
+    height: 300px;
+float: left;
+
+}
+p.right-slide-bar{
+    background: green;
+    color: white;
+    width: 25%;
+    height: 300px;
+
+    float: right;
+}
+p.centr-slide-bar{
+    background: blue;
+    color: black;
+    width: 90%;
+    height: 50px;
+    margin:5%
+}
+p.centr1-slide-bar{
+    background: red;
+    color: black;
+    width: 90%;
+    height: 50px;
+    margin:5%
+}
+p.centr2-slide-bar{
+    background: yellow;
+    color: black;
+    width: 90%;
+    height: 50px;
+margin:5%
+
+
+}
+
+div.parent{
+    float: left;
+    width: 50%;
+    height: 100px;
+}
